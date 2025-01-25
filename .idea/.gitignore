@@ -1,11 +1,12 @@
 # Default ignored files
 *.iml
 .gradle/
-/local.properties
+local.properties
 /.idea/
 /build/
 /captures/
 .cxx/
-
+.DS_Store
+Thumb.db
 
 
